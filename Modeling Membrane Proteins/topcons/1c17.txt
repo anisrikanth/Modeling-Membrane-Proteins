@@ -1,0 +1,167 @@
+##############################################################################
+TOPCONS2 result file
+Generated from https://topcons.net at 2021-10-08 22:52:06 CEST
+Total request time: 0.2 seconds.
+##############################################################################
+Sequence number: 1
+Sequence name: 1C17_1|Chains A, B, C, D, E, F, G, H, I, J, K, L|ATP SYNTHASE SUBUNIT C|Escherichia coli (562)
+Sequence length: 79 aa.
+Sequence:
+MENLNMDLLYMAAAVMMGLAAIGAAIGIGILGGKFLEGAARQPDLIPLLRTQFFIVMGLVDAIPMIAVGLGLYVMFAVA
+
+
+TOPCONS predicted topology:
+ooooooooooMMMMMMMMMMMMMMMMMMMMMiiiiiiiiiiiiiiiiiiiiiiiiMMMMMMMMMMMMMMMMMMMMMooo
+
+
+OCTOPUS predicted topology:
+ooooooooooMMMMMMMMMMMMMMMMMMMMMiiiiiiiiiiiiiiiiiiiiiiiiMMMMMMMMMMMMMMMMMMMMMooo
+
+
+Philius predicted topology:
+oooooooMMMMMMMMMMMMMMMMMMMMMMMMMMiiiiiiiiiiiiiiiiiiiMMMMMMMMMMMMMMMMMMMMMMMMooo
+
+
+PolyPhobius predicted topology:
+iiiiiiiiMMMMMMMMMMMMMMMMMMMMMMMMMooooooooooooooooooMMMMMMMMMMMMMMMMMMMMMMMMMMii
+
+
+SCAMPI predicted topology:
+ooooooooooMMMMMMMMMMMMMMMMMMMMMiiiiiiiiiiiiiiiiiiiiiiiiiiMMMMMMMMMMMMMMMMMMMMMo
+
+
+SPOCTOPUS predicted topology:
+ooooooooooMMMMMMMMMMMMMMMMMMMMMiiiiiiiiiiiiiiiiiiiiiiiiMMMMMMMMMMMMMMMMMMMMMooo
+
+
+4bemJ:
+--------ooMMMMMM-MMMMMMMMMMMMMMMMMiiiiiiiiiiiiiiiMMMMMMMMMMMMMMMMMMMMMMMMMMMo--
+
+
+
+Predicted Delta-G-values (kcal/mol) (left column=sequence position; right column=Delta-G)
+
+10 4.524
+11 4.037
+12 2.898
+13 1.562
+14 1.579
+15 0.655
+16 0.292
+17 -0.374
+18 0.270
+19 0.703
+20 1.087
+21 0.973
+22 0.442
+23 0.692
+24 0.863
+25 1.043
+26 0.831
+27 0.614
+28 1.445
+29 2.664
+30 3.152
+31 3.661
+32 4.234
+33 4.746
+34 5.570
+35 6.566
+36 6.874
+37 7.022
+38 8.095
+39 7.835
+40 7.959
+41 8.303
+42 7.892
+43 7.729
+44 6.984
+45 6.636
+46 6.663
+47 5.793
+48 5.497
+49 5.733
+50 5.106
+51 4.555
+52 3.998
+53 2.923
+54 1.982
+55 2.372
+56 2.285
+57 1.642
+58 2.024
+59 2.433
+60 2.859
+61 2.665
+62 2.706
+63 2.550
+64 2.630
+65 2.381
+66 2.051
+67 1.534
+68 1.089
+69 1.277
+70 1.238
+
+Predicted TOPCONS reliability (left column=sequence position; right column=reliability)
+
+11	87.62
+12	88.57
+13	89.52
+14	90.48
+15	91.43
+16	92.38
+17	93.33
+18	94.29
+19	96.19
+20	98.10
+21	100.00
+22	98.10
+23	96.19
+24	95.24
+25	94.29
+26	93.33
+27	92.38
+28	91.43
+29	90.48
+30	89.52
+31	88.57
+32	87.62
+33	86.67
+34	85.71
+35	84.76
+36	83.81
+37	82.86
+38	81.90
+39	80.95
+40	80.00
+41	79.05
+42	78.10
+43	78.10
+44	78.10
+45	77.14
+46	77.14
+47	77.14
+48	78.10
+49	79.05
+50	80.00
+51	80.95
+52	81.90
+53	82.86
+54	83.81
+55	84.76
+56	85.71
+57	86.67
+58	87.62
+59	88.57
+60	89.52
+61	90.48
+62	91.43
+63	92.38
+64	94.29
+65	96.19
+66	98.10
+67	97.14
+68	96.19
+
+##############################################################################
